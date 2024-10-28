@@ -16,16 +16,16 @@ Error Handling: Provides descriptive error messages for invalid expressions or o
 
 ## Files ##
 
-json_eval.cpp: The main C++ source code containing the implementation.
-Makefile: Makefile for building the application and running tests.
-test.json: Sample JSON file used for testing.
-test.sh: Shell script containing a series of test cases to verify the evaluator's functionality.
+- json_eval.cpp: The main C++ source code containing the implementation.
+- Makefile: Makefile for building the application and running tests.
+- test.json: Sample JSON file used for testing.
+- test.sh: Shell script containing a series of test cases to verify the evaluator's functionality.
 
 ## Requirements ##
 
-Compiler: C++ compiler supporting C++11 standard or later (e.g., g++, clang++)
-Build Tool: Make utility (make)
-Environment: Unix-like environment (for running test.sh)
+- Compiler: C++ compiler supporting C++11 standard or later (e.g., g++, clang++)
+- Build Tool: Make utility (make)
+- Environment: Unix-like environment (for running test.sh)
 
 ## Building the Application ##
 

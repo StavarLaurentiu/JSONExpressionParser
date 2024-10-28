@@ -51,7 +51,7 @@ The application requires two command-line arguments:
 1. JSON File: The path to the JSON file.
 2. Expression: The expression to evaluate.
 
-Usage: ./json_eval <json_file> <expression>
+./json_eval <json_file> <expression>
 
 ## Running Test Cases ##
 

@@ -1,0 +1,42 @@
+{
+    "user": {
+      "name": "Alice",
+      "age": 30,
+      "emails": ["alice@example.com", "alice.work@example.com"],
+      "address": {
+        "street": "123 Main St",
+        "city": "Wonderland"
+      },
+      "scores": [85, 92, 88]
+    },
+    "settings": {
+      "theme": "dark",
+      "notifications": "true",
+      "languages": ["English", "Spanish", "French"]
+    },
+    "numbers": [10, 20, 30, 40, 50],
+    "matrix": [
+      [1, 2, 3],
+      [4, 5, 6],
+      [7, 8, 9]
+    ],
+    "products": [
+      {"id": 1, "name": "Widget", "price": 19.99},
+      {"id": 2, "name": "Gadget", "price": 29.99},
+      {"id": 3, "name": "Thingamajig", "price": 9.99}
+    ],
+    "emptyArray": [],
+    "emptyObject": {},
+    "nested": {
+      "level1": {
+        "level2": {
+          "level3": "deep value"
+        }
+      }
+    },
+    "flags": {
+        "isActive": "true",
+        "isVerified": "false"
+    }
+}
+  

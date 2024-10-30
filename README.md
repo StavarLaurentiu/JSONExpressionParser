@@ -40,7 +40,11 @@ Make sure the following files are in your project directory:
  - test.sh
  - Build the Application
 
-2. Open a terminal in the project directory and run: $ make
+2. Open a terminal in the project directory and run:
+
+ ```bash
+ make
+ ```
 
 This will compile json_eval.cpp, create an executable named json_eval and give exacutable permisions to the test.sh
 

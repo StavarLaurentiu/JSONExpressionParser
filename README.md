@@ -55,21 +55,31 @@ The application requires two command-line arguments:
 1. JSON File: The path to the JSON file.
 2. Expression: The expression to evaluate.
 
-Usage: ./json_eval json_file expression
+```bash
+./json_eval json_file expression
+```
 
 ## Running Test Cases ##
 
 The test.sh script contains a series of test cases to verify the evaluator's functionality.
 
-Usage: ./test.sh
+```bash
+./test.sh
+```
 
 Alternatively, you can use the make target:
 
-Usage: make run_tests
+```bash
+make run_tests
+```
 
 ## Cleaning Up ##
 
-To clean up the compiled executable, run: $ make clean
+To clean up the compiled executable, run:
+
+```bash
+make clean
+```
 
 This command will remove the json_eval executable.
 
